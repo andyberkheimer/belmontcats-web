@@ -1,2 +1,2 @@
 # belmontcats-web
-Source material for cf.belmontcats.org, served via Cloudflare Pages.
+Source material for www.belmontcats.org, served via Cloudflare Pages.
